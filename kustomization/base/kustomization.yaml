@@ -1,0 +1,4 @@
+resources:
+  - "./00-flux-system.yaml"
+  - "./00-linkerd.yaml"
+  - "./10-linkerd.yaml"
